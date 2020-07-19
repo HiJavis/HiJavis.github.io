@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://hijavis.github.io/"/>
-  <updated>2020-07-13T03:15:43.982Z</updated>
+  <updated>2020-07-19T10:41:44.812Z</updated>
   <id>http://hijavis.github.io/</id>
   
   <author>
@@ -15,6 +15,37 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JVM问题整理</title>
+    <link href="http://hijavis.github.io/2020/07/12/jvm1/"/>
+    <id>http://hijavis.github.io/2020/07/12/jvm1/</id>
+    <published>2020-07-12T02:59:26.000Z</published>
+    <updated>2020-07-19T10:41:44.812Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;什么是栈&quot;&gt;&lt;a href=&quot;#什么是栈&quot; class=&quot;headerlink&quot; title=&quot;什么是栈?&quot;&gt;&lt;/a&gt;什么是栈?&lt;/h1&gt;&lt;p&gt; 
+        
+      
+    
+    </summary>
+    
+    
+      <category term="Markdown" scheme="http://hijavis.github.io/categories/Markdown/"/>
+    
+    
+      <category term="JAVA" scheme="http://hijavis.github.io/tags/JAVA/"/>
+    
+      <category term="Markdown" scheme="http://hijavis.github.io/tags/Markdown/"/>
+    
+      <category term="JVM" scheme="http://hijavis.github.io/tags/JVM/"/>
+    
+  </entry>
   
   <entry>
     <title>堆排序算法</title>
